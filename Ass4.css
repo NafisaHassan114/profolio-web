@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px 0px;
+    background-color: darkblue;
+
+    height: 410px;
+  
+    
+    
+    
+
+}
+.person img{
+    width: 360px;
+    height: 320px;
+    padding-right: 20px;
+
+
+}
+.sub-title button{
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 26px;
+    font-size: 16px;
+
+}
+.sub-title h1, p{
+    color: white;
+}
+.Footer {
+
+
+    background-color: rgb(132, 32, 225);
+    width: 100%;
+    height: 500px;
+    
+}
+.Footer .line{
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+    font-size: 55px;
+}
+span{
+    color: white;
+
+}
+
+.Web{
+    background-color: white;
+    width: 350px;
+    height: 320px;
+    border-radius: 22px;
+    text-align: center;
+    padding: 12px;
+
+}
+.Web p{
+    font-size: 22px;
+    margin-top: 20px;
+    color: black;
+}
+.Web i{
+    color: orange;
+    font-size: 65px;
+}
+
+.App{
+    background-color: white;
+    width: 350px;
+    height: 320px;
+    border-radius: 22px;
+    text-align: center;
+    padding: 12px;
+}
+.App p{
+    font-size: 22px;
+    margin-top: 20px;
+    color: black;
+}
+.App i{
+    color: orange;
+    font-size: 65px;
+}
+.Digit{
+    background-color: white;
+    width: 350px;
+    height: 320px;
+    border-radius: 22px;
+    text-align: center;
+    padding: 12px;
+}
+.Digit p{
+    font-size: 22px;
+    margin-top: 20px;
+    color: black;
+}
+.Digit i{
+    color: orange;
+    font-size: 65px;
+    
+}
+.main {
+    display: flex;
+    justify-content: start;
+    gap: 22px;
+    margin: 60px;
+}
